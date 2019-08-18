@@ -1,3 +1,7 @@
+Deprecated!
+=====
+There's a new kid in town, and his name is EMCO: https://github.com/demonnic/EMCO
+
 YATCO
 =====
 
